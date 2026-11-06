@@ -1,0 +1,35 @@
+# Core ML
+torch
+transformers>=5.0.0
+datasets>=5.0.0
+tokenizers
+sentencepiece
+safetensors
+
+# Scientific Computing
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+
+# Telugu NLP
+indic-nlp-library
+
+# Web UI
+streamlit
+
+# Evaluation
+jiwer
+evaluate
+sacrebleu
+rapidfuzz
+
+# Semantic Similarity
+sentence-transformers
+
+# Utilities
+tqdm
+rich
+jupyter
+notebook

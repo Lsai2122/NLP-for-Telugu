@@ -1,0 +1,23 @@
+# Python and notebook runtime files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments and environment secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Tooling and operating-system files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+
+# Temporary model-training files
+*.tmp
+*.log
